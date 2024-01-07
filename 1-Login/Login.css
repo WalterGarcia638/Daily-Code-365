@@ -1,0 +1,13 @@
+.cardBorder{
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+
+.LoginInput{
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+}
