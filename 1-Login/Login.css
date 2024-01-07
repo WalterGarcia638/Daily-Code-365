@@ -1,13 +1,42 @@
 .cardBorder{
     border: 1px solid #ccc;
     border-radius: 10px;
-    width: 300px;
+    width: 600px;
     height: 300px;
-    text-align: center;
+    text-align: center; 
+    margin: 50px auto;
 }
 
 .LoginInput{
-    display: block;
     text-align: center;
     margin: 10px auto;
+    display: block;
+    width: 80%;
+    height: 10%;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
+
+.LoginButton{
+    background-color: rgb(17, 200, 109);
+    text-align: center;
+    margin: 10px auto;
+    display: block;
+    width: 80%;
+    height: 10%;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    color:white;
+}
+
+.RegisterButton{
+    background-color: rgb(17, 130, 223);
+    text-align: center;
+    margin: 10px auto;
+    display: block;
+    width: 80%;
+    height: 10%;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    color:white;
 }
